@@ -10,7 +10,7 @@ const LandingCards = () => {
         </div>
       </div>
       <div className="cards grid grid-cols-3 gap-20 *:p-3 *:w-full text-white">
-        <div className="card border   rounded-lg overflow-hidden">
+        <div className="card border rounded-lg overflow-hidden">
           <img src="" className="w-full h-40 bg-gray-800" alt="" />
           <p className="capitalize mt-2 text-xl font-medium">trip to sina </p>
           <p className="flex items-center">
